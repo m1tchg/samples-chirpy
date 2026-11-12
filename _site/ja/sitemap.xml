@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://m1tchg.github.io/categories/</loc>
-<lastmod>2026-11-12T21:18:08+09:00</lastmod>
+<loc>https://m1tchg.github.io/samples-chirpy/categories/</loc>
+<lastmod>2026-11-12T21:50:16+09:00</lastmod>
 </url>
 <url>
-<loc>https://m1tchg.github.io/tags/</loc>
-<lastmod>2026-11-12T21:18:08+09:00</lastmod>
+<loc>https://m1tchg.github.io/samples-chirpy/tags/</loc>
+<lastmod>2026-11-12T21:50:16+09:00</lastmod>
 </url>
 <url>
-<loc>https://m1tchg.github.io/archives/</loc>
-<lastmod>2026-11-12T21:18:08+09:00</lastmod>
+<loc>https://m1tchg.github.io/samples-chirpy/archives/</loc>
+<lastmod>2026-11-12T21:50:16+09:00</lastmod>
 </url>
 <url>
-<loc>https://m1tchg.github.io/about/</loc>
-<lastmod>2026-11-12T21:18:08+09:00</lastmod>
+<loc>https://m1tchg.github.io/samples-chirpy/about/</loc>
+<lastmod>2026-11-12T21:50:16+09:00</lastmod>
 </url>
 <url>
-<loc>https://m1tchg.github.io/</loc>
+<loc>https://m1tchg.github.io/samples-chirpy/</loc>
 </url>
 </urlset>

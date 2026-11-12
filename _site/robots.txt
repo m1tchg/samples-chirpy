@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://m1tchg.github.io/sitemap.xml
+Sitemap: https://m1tchg.github.io/samples-chirpy/sitemap.xml
