@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://m1tchg.github.io/samples-chirpy/posts/writing-samples-ja/</loc>
+<lastmod>2026-11-12T00:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>https://m1tchg.github.io/samples-chirpy/posts/writing-samples/</loc>
+<lastmod>2026-11-12T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>https://m1tchg.github.io/samples-chirpy/categories/</loc>
-<lastmod>2026-11-12T21:50:15+09:00</lastmod>
+<lastmod>2026-11-12T22:41:35+09:00</lastmod>
 </url>
 <url>
 <loc>https://m1tchg.github.io/samples-chirpy/tags/</loc>
-<lastmod>2026-11-12T21:50:15+09:00</lastmod>
+<lastmod>2026-11-12T22:41:35+09:00</lastmod>
 </url>
 <url>
 <loc>https://m1tchg.github.io/samples-chirpy/archives/</loc>
-<lastmod>2026-11-12T21:50:15+09:00</lastmod>
+<lastmod>2026-11-12T22:41:35+09:00</lastmod>
 </url>
 <url>
 <loc>https://m1tchg.github.io/samples-chirpy/about/</loc>
-<lastmod>2026-11-12T21:50:15+09:00</lastmod>
+<lastmod>2026-11-12T22:41:35+09:00</lastmod>
 </url>
 <url>
 <loc>https://m1tchg.github.io/samples-chirpy/</loc>
+</url>
+<url>
+<loc>https://m1tchg.github.io/samples-chirpy/categories/article/</loc>
 </url>
 </urlset>
