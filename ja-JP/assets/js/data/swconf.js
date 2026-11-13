@@ -1,0 +1,1 @@
+const swconf = { cacheName: 'chirpy-1794566060',resources: [ '/samples-chirpy/assets/css/jekyll-theme-chirpy.css', '/samples-chirpy/', '/samples-chirpy/categories/', '/samples-chirpy/tags/', '/samples-chirpy/archives/', '/samples-chirpy/about/', ], interceptor: {paths: [ ],urlPrefixes: [ ] }, purge: false };
